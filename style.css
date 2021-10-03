@@ -18,6 +18,70 @@ img{
 .bg-color{
     background-color:#f0fff0;
 }
-img{
-    background: #f0fff0 !important;
+.width-dibo img{
+    max-width: 100%;
+    background-color:#f0fff0 ;
+}
+h3{
+    color: #fc5e2b;
+}
+.rong{
+    color: #21b573;
+}
+.btn-style{
+    color: white;
+    background-color: #21b573;
+    padding: 10px 30px;
+    font-size: 15px;
+    border-radius: 20px;
+    border-color: #21b573 !important;
+}
+.padding-dei{
+    padding-left: 50px;
+}
+.logo{
+    background-color: #f0fff0 !important;
+}
+.margin-dibo{
+    margin-top: 100px;
+}
+.padding-deia{
+    padding: 50px 20px;
+}
+.mar{
+    margin-bottom: 20px;
+}
+.soto{
+    width: 120px;
+    height: auto;
+}
+.para{
+    margin-top: 50px;
+}
+.pppe{
+    margin-top: 15px;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.color-bei{
+    background-color: #282531;
+}
+.black{
+    color: white;
+}
+.bold{
+    color: red;
+    font-size: 20px;
+}
+.padd-a{
+    padding: 30px 50px;
+}
+.balack-kori{
+    background-color:#282531 ;
+    font-size: 20px;
+    padding: 20px 30px;
+    color: white;
 }
